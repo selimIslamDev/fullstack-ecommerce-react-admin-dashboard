@@ -146,7 +146,7 @@ const Navbar = () => {
           )}
         </div>
 
-        {/* Divider */}
+       
         <div className="w-px h-6 bg-gray-200 mx-1 hidden sm:block" />
 
         {/* Profile / Sign In */}
